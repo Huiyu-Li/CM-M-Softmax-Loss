@@ -16,5 +16,5 @@ Visualization of 2-D features of the test samples in MNIST, learned by using (a)
 
 | (a) Softmax           | L2-softmax            | CM-M-Softmax          | Margin&L2-Softmaxloss | Margin&CM-M-Softmax   |
 | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| ![1](.\figures\1.jpg) | ![2](.\figures\2.jpg) | ![3](.\figures\3.jpg) | ![4](.\figures\4.jpg) | ![5](.\figures\5.jpg) |
+| ![1](./figures/1.jpg) | ![2](./figures/2.jpg) | ![3](./figures/3.jpg) | ![4](./figures/4.jpg) | ![5](./figures/5.jpg) |
 
